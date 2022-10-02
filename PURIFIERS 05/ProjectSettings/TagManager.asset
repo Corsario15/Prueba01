@@ -13,6 +13,11 @@ TagManager:
   - Ataque2
   - Ataque3
   - Piso
+  - EsferaVida
+  - EsferaMapa
+  - "EsferaDa\xF1o"
+  - Entrada
+  - EsferaDorada
   layers:
   - Default
   - TransparentFX
